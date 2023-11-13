@@ -21,4 +21,5 @@ function merge(collection1: number[], collection2: number[]): number[] {
     }
     return merged;
 }
+
 export default merge;
